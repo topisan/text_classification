@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'I lay it down as a general rule , Harriet , that if a woman _doubts_ as to whether she should accept a man or not , she certainly ought to refuse him',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Nothing but two dismal tallow candles , each in a winding sheet .',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'The King doth wake to night , and takes his rouse , Keepes wassels and the swaggering vpspring reeles , And as he dreines his draughts of Renish downe , The kettle Drum and Trumpet thus bray out The triumph of his Pledge'      
 };
 
 function status(statusText) {
